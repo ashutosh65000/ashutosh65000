@@ -29,6 +29,7 @@ Cheers!
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/> 
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg alt=vs-code width="50" height="50"/>
   <img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-plain-wordmark.svg alt=javascript width="40" height="40"/> 
+  <img src=https://raw.githubusercontent.com/simple-icons/simple-icons/efbe378461287a6872aa4f539e8415a3be52b103/icons/apachekafka.svg alt=javascript width="40" height="40"/> 
 </p>
 <p align="center">
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg alt=vs-code width="50" height="50"/>
