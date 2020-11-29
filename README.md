@@ -5,7 +5,7 @@
 Hello Friend👋 This is Ashutosh Srivastava. A passionate coder and technology enthusiast.<br/><br>
 Its well said that:
 “Don’t take rest after your first victory because if you fail in the second, more lips are waiting to say that your first victory was just luck.” - A P  J Abdul Kalam <br/>
- 🔭I’m currently working on React Native and Mule4 Integration.<br/>
+ 🔭I’m currently working on React Native, Mule4 ESB and Confluent Kafka.<br/>
  🌱I’m currently learning React Native.<br/>
  👯I’m looking to collaborate on web devlopment with ReactJS or VueJS.<br/>
  ⚡Fun fact: I like pencil sketching.<br/>
@@ -19,12 +19,12 @@ Its well said that:
 
 Cheers!
 <p align="center">
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/nodoejs/nodejs-plain-wordmark.svg alt=react width="40" height="40"/> 
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/> 
-  <img src=https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="40" height="40"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/> 
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg alt=nodejs width="40" height="40"/> 
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/> 
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="40" height="40"/> 
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt=Bootstrap width="40" height="40"/>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/> 
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg alt=vs-code width="50" height="50"/>
